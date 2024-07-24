@@ -1,0 +1,48 @@
+/* div{
+    padding-right:30px ;
+    width: 400px;
+    height: 700px;
+     border: solid darkgray;
+     
+    }
+
+img{
+    padding-left: 50px;
+}
+blockquote{
+    color: darkgray;
+    text-align: center;
+     text-decoration: underline dashed red; 
+}
+h3{
+    color: darkgray;
+    text-align: center;
+}
+
+
+
+button{
+    margin-bottom: 50px;
+    color: white;
+    content: '\f132';
+    margin-left: 100px;
+    background-color: blueviolet;
+    height: 40px;
+
+
+}
+h1{
+    text-align: center;
+} */
+.matn{
+    text-transform: uppercase;
+    text-shadow: 2px -2px green;
+    line-height: -10px;
+    text-transform: capitalize;
+}
+h3{
+    text-shadow: 1px -4px yellow;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
